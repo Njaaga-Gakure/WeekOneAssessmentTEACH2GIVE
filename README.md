@@ -10,3 +10,6 @@ This is a solution to the Social proof section frontend mentor challenge.
 
 - Don't use Flex or grid layouts.
 - Write clean code.
+
+[GitHub Link](https://github.com/Njaaga-Gakure/WeekOneAssessmentTEACH2GIVE)
+[Live Site Link](https://teach2give-week-one-assessment.netlify.app/)
